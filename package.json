@@ -1,0 +1,29 @@
+{
+  "name": "samsung-tv-scan",
+  "version": "1.0.0",
+  "description": "Scans your local network for Samsung 2015 model TVs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milankragujevic/samsung-tv-scan.git"
+  },
+  "keywords": [
+    "samsung",
+    "smarttv",
+    "scan"
+  ],
+  "author": "Milan Kragujevic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milankragujevic/samsung-tv-scan/issues"
+  },
+  "homepage": "https://github.com/milankragujevic/samsung-tv-scan#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "ip": "^1.1.5",
+    "request": "^2.83.0"
+  }
+}
