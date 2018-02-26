@@ -17,14 +17,16 @@ The closer your device is to the beginning of the IP list, the faster it will be
 
 ## Sample output
 
-  { 
-    id: 'uuid:9c80a056-2cc9-42df-ac32-98efcba5e56e',
-    model: 'UE32J5500',
-    network_type: 'wired',
-    wifi_ssid: '',
-    ip: '10.0.0.15',
-    name: '[TV] UE32J5502',
-    display_resolution: '1920x1080'
-  }
+
+    { 
+      id: 'uuid:9c80a056-2cc9-42df-ac32-98efcba5e56e',
+      model: 'UE32J5500',
+      network_type: 'wired',
+      wifi_ssid: '',
+      ip: '10.0.0.15',
+      name: '[TV] UE32J5502',
+      display_resolution: '1920x1080'
+    }
+
 
 The UUID has been replaced with a dummy one in the example.
